@@ -1,11 +1,23 @@
-👋 ¡Hola! Soy ELMER.
+# Hola, soy Elmer 👋
 
-👀 Me apasiona el desarrollo de software y disfruto especialmente trabajando con Angular, Express, Firebase y Python. Siempre estoy buscando nuevos desafíos para mejorar mis habilidades y aprender nuevas tecnologías.
+Soy un apasionado del desarrollo de software, disfruto especialmente trabajando con Angular, Express, Firebase y Python. Siempre estoy buscando nuevos desafíos para mejorar mis habilidades y aprender nuevas tecnologías.
 
-🌱 Actualmente estoy inmerso en mis estudios de Ingeniería de Sistemas e Ingeniería de Software, donde estoy adquiriendo conocimientos sólidos y desarrollando proyectos que me permiten aplicar lo que aprendo en el aula.
+## 🎓 Educación
 
-💼 Estoy abierto a oportunidades de colaboración en proyectos emocionantes donde pueda contribuir con mi experiencia y aprender de otros desarrolladores talentosos. Me encanta trabajar en equipo y enfrentar desafíos que me permitan crecer profesionalmente.
+-   <h5> Estudiante de Ingeniería de Sistemas</h5>
+- <h5>Estudiante de Ingeniería de Software</h5>
 
+## 💻 Tecnologías
 
+Aquí algunas de las tecnologías con las que disfruto trabajar:
+
+<div style="display: flex; flex-wrap:wrap; gap: 10px; width:100%">
+    <button style="background-color: #DD0031; color: white; border: none; padding: 10px 20px; border-radius: 5px;">Angular</button>
+    <button style="background-color: #38B2AC; color: white; border: none; padding: 10px 20px; border-radius: 5px;">Tailwind CSS</button>
+    <button style="background-color: #FFCA28; color: white; border: none; padding: 10px 20px; border-radius: 5px;">Firebase</button>
+    <button style="background-color: #404D59; color: white; border: none; padding: 10px 20px; border-radius: 5px;">Express</button>
+    <button style="background-color: #3776AB; color: white; border: none; padding: 10px 20px; border-radius: 5px;">Python</button>
+    <button style="background-color: #007ACC; color: white; border: none; padding: 10px 20px; border-radius: 5px;">Typescript</button>
+</div>
 
 
