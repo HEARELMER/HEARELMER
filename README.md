@@ -17,7 +17,7 @@ Aquí algunas de las tecnologías con las que disfruto trabajar:
     <button style="background-color: #FFCA28; color: white; border: none; padding: 10px 20px; border-radius: 5px;">Firebase  |</button>
     <button style="background-color: #404D59; color: white; border: none; padding: 10px 20px; border-radius: 5px;">Express  |</button>
     <button style="background-color: #3776AB; color: white; border: none; padding: 10px 20px; border-radius: 5px;">Python  |</button>
-    <button style="background-color: #007ACC; color: white; border: none; padding: 10px 20px; border-radius: 5px;">Typescript</button>
+    <button style="background-color: #007ACC; color: white; border: none; padding: 10px 20px; border-radius: 5px;">NestJs</button>
 </div>
 
 
