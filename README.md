@@ -1,6 +1,6 @@
 # Hola, soy Elmer 👋
 
-Soy un apasionado del desarrollo de software, disfruto especialmente trabajando con Angular, Express, Firebase y Python. Siempre estoy buscando nuevos desafíos para mejorar mis habilidades y aprender nuevas tecnologías.
+Soy un desarrollador de software, disfruto especialmente trabajando con Angular, Express, Firebase y Python. Siempre estoy buscando nuevos desafíos para mejorar mis habilidades y aprender nuevas tecnologías.
 
 ## 🎓 Educación
 
