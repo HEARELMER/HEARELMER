@@ -1,23 +1,13 @@
-# Hola, soy Elmer 👋
+# 👋 Hola, soy Elmer Huaman  
 
-Sodaaaaaaa.
+💻 Estudiante de Ingeniería de Sistemas  
+🚀 Apasionado por la programación y el desarrollo de software  
+📊 Interesado en ciencia de datos y optimización  
 
-## 🎓 Educación
+## 🔧 Tecnologías
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
--   <h5> Estudiante de Ingeniería de Sistemas</h5>
-- <h5>Estudiante de Ingeniería de Software</h5>
-
-## 💻 Tecnologías
-
-Aquí algunas de las tecnologías con las que disfruto trabajar:
-
-<div style="display: flex; flex-wrap:wrap; gap: 10px; width:100%">
-    <button style="background-color: #DD0031; color: white; border: none; padding: 10px 20px; border-radius: 5px;">Angular |</button>
-    <button style="background-color: #38B2AC; color: white; border: none; padding: 10px 20px; border-radius: 5px;"> Tailwind CSS |</button>
-    <button style="background-color: #FFCA28; color: white; border: none; padding: 10px 20px; border-radius: 5px;">Firebase  |</button>
-    <button style="background-color: #404D59; color: white; border: none; padding: 10px 20px; border-radius: 5px;">Express  |</button>
-    <button style="background-color: #3776AB; color: white; border: none; padding: 10px 20px; border-radius: 5px;">Python  |</button>
-    <button style="background-color: #007ACC; color: white; border: none; padding: 10px 20px; border-radius: 5px;">NestJs</button>
-</div>
-
-
+## 📈 Estadísticas
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=elmerhuaman&show_icons=true&theme=tokyonight)
