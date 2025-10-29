@@ -47,13 +47,7 @@ Me interesa construir soluciones innovadoras que aporten valor en el mundo real,
   Desarrollo de un sistema para la gestión de **servicios y paquetes turísticos**, optimizando el control de ventas y reportes.  
   _Tecnologías:_ Angular, Java (Spring Boot), PostgreSQL, Docker.  
 
-- 📚 **Sistema de Gestión de Biblioteca**  
-  Proyecto académico basado en **herencia y programación orientada a objetos** para gestionar préstamos y devoluciones.  
-  _Tecnologías:_ Java, POO.  
-
-- 🎓 **Evaluación de la Calidad Educativa**  
-  Prototipo para medir indicadores de calidad en universidades, basado en **MVC** y modelado de software.  
-  _Tecnologías:_ Angular, Figma, PostgreSQL.  
+ 
 
 ---
 
