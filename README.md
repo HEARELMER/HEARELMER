@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Elmer Huaman  
+# 👋 ¡Hola! Soy Elmer Jesús 
 
 Soy **Estudiante de Ingeniería de Sistemas** con pasión por la **tecnología, el desarrollo de software y la optimización de procesos**.  
 Me interesa construir soluciones innovadoras que aporten valor en el mundo real, combinando **buenas prácticas de programación**, **arquitectura de software** y **diseño de interfaces**.  
